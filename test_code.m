@@ -27,7 +27,7 @@ p(4).LineWidth = 2;
 
 xlabel("Time (hr)")
 ylabel("# of Worms")
-title('# of Worms After the Rain')
+title('# of Worms After the Tremendously Monumental Rain')
 
 legend('Pavement', 'Sidewalk', 'Grass', 'Mulch', ...
     'Location','southoutside','NumColumns',4)
