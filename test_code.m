@@ -25,9 +25,9 @@ p(4).Marker = 'o';
 p(4).Color = '#1cbc14';
 p(4).LineWidth = 2;
 
-xlabel("Time (hr)")
-ylabel("# of Worms")
-title('# of Worms After the Tremendously Monumental Rain')
+xlabel("Time (hrs)")
+ylabel("Number of Worms")
+title('Number of Worms After the Rain')
 
 legend('Pavement', 'Sidewalk', 'Grass', 'Mulch', ...
     'Location','southoutside','NumColumns',4)
